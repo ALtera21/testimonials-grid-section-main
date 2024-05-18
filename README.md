@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution here](https://www.frontendmentor.io/solutions/responsive-desktop-first-testimonial-grid-no-framework-no-library-87zWGNXLei)
+- Live Site URL: [Live site here](https://altera21.github.io/testimonials-grid-section-main/)
 
 ## My process
 
